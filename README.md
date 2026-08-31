@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Berzoul! 👋</h1>
 
-<!--
-**kurniagustino/kurniagustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Software+Developer;Tech+Explorer;Always+Learning+%26+Building..." alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 💫 About Me
+
+```javascript
+const berzoul = {
+    code: ["JavaScript", "TypeScript", "Python", "PHP"],
+    tools: ["Git", "Docker", "VS Code", "Linux"],
+    architecture: ["REST API", "Microservices"],
+    currentFocus: "Building cool full-stack applications & exploring AI",
+    funFact: "I turn coffee into clean code ☕"
+};
