@@ -1,15 +1,15 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Berzoul+%E2%9A%A1;Full-Stack+Software+Engineer;Tech+Explorer+%26+Builder;Turning+Ideas+Into+Code..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Kurnia Gustino+%E2%9A%A1;Full-Stack+Software+Engineer;Tech+Explorer+%26+Builder;Turning+Ideas+Into+Code..."
     alt="Typing SVG"
   />
 </h1>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0066FF,100:7A00FF&height=220&section=header&text=BERZOUL&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Builder%20%7C%20Tech%20Explorer&descAlignY=60&descSize=16&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0066FF,100:7A00FF&height=220&section=header&text=Kurnia Gustino&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Builder%20%7C%20Tech%20Explorer&descAlignY=60&descSize=16&animation=twinkling"
     width="100%"
-    alt="Berzoul Header"
+    alt="Kurnia Gustino Header"
   />
 </p>
 
@@ -353,7 +353,7 @@ Fast & Secure
 </p>
 
 <h3 align="center">
-  ⚡ BERZOUL // BUILD. BREAK. LEARN. REPEAT. ⚡
+  ⚡ Kurnia Gustino // BUILD. BREAK. LEARN. REPEAT. ⚡
 </h3>
 
 <p align="center">
