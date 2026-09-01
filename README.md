@@ -1,13 +1,13 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Kurnia Gustino+%E2%9A%A1;Full-Stack+Software+Engineer;Tech+Explorer+%26+Builder;Turning+Ideas+Into+Code..."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Kurnia+Gustino+%E2%9A%A1;Full-Stack+Software+Engineer;Tech+Explorer+%26+Builder;Turning+Ideas+Into+Code..."
     alt="Typing SVG"
   />
 </h1>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0066FF,100:7A00FF&height=220&section=header&text=Kurnia Gustino&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Builder%20%7C%20Tech%20Explorer&descAlignY=60&descSize=16&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0066FF,100:7A00FF&height=220&section=header&text=Kurnia%20Gustino&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Builder%20%7C%20Tech%20Explorer&descAlignY=60&descSize=16&animation=twinkling"
     width="100%"
     alt="Kurnia Gustino Header"
   />
@@ -54,13 +54,11 @@
 </p>
 
 <p align="center">
-
-👨‍💻 Full-Stack Software Engineer  
-🚀 Builder & Tech Explorer  
-🧠 Problem Solver  
-🤖 AI Enthusiast  
-☕ Coffee Powered Developer  
-
+👨‍💻 Full-Stack Software Engineer<br>
+🚀 Builder & Tech Explorer<br>
+🧠 Problem Solver<br>
+🤖 AI Enthusiast<br>
+☕ Coffee Powered Developer
 </p>
 
 </td>
@@ -77,14 +75,12 @@
 </p>
 
 <p align="center">
-
-🌐 Web Applications  
-⚡ RESTful APIs  
-🏗️ Backend Systems  
-🗄️ Database Architecture  
-🐳 DevOps & Deployment  
-🤖 AI Integration  
-
+🌐 Web Applications<br>
+⚡ RESTful APIs<br>
+🏗️ Backend Systems<br>
+🗄️ Database Architecture<br>
+🐳 DevOps & Deployment<br>
+🤖 AI Integration
 </p>
 
 </td>
@@ -222,64 +218,12 @@ Containerization, deployment, Linux servers and system automation.
 
 ---
 
-<h2 align="center">📊 // GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kurniagustino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&include_all_commits=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniagustino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 <h2 align="center">🔥 // CONTRIBUTION STREAK</h2>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=kurniagustino&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=FFFFFF"
     alt="GitHub Streak"
-  />
-</p>
-
----
-
-<h2 align="center">🏆 // GITHUB TROPHIES</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=kurniagustino&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-<h2 align="center">📈 // CONTRIBUTION ACTIVITY</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kurniagustino&bg_color=0D1117&color=00F0FF&line=7A00FF&point=FFFFFF&area=true&hide_border=true"
-    width="95%"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
-
-<h2 align="center">🐍 // CONTRIBUTION SNAKE</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/kurniagustino/kurniagustino/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
   />
 </p>
 
@@ -325,21 +269,18 @@ Fast & Secure
 <h2 align="center">🌐 // CONNECT WITH ME</h2>
 
 <p align="center">
-
-<a href="https://github.com/kurniagustino">
-  <img
-    src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"
-    alt="GitHub"
-  />
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img
-    src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF"
-    alt="Email"
-  />
-</a>
-
+  <a href="https://github.com/kurniagustino">
+    <img
+      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"
+      alt="GitHub"
+    />
+  </a>
+  <a href="mailto:email-kamu@example.com">
+    <img
+      src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF"
+      alt="Email"
+    />
+  </a>
 </p>
 
 ---
